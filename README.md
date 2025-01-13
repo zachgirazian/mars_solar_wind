@@ -5,6 +5,6 @@ Figure shows measurements of charged particles in the atmosphere of Mars. They w
 
 
 
-<img width="990" alt="image" src="https://github.com/user-attachments/assets/a87187f3-dce9-44ce-aef3-63904f3caf6f" />
+<img width="990" alt="image" src="https://github.com/user-attachments/assets/60696c37-6781-43de-8a92-556123918c4c" />
 
 This figure is from an academi publication found here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032164
