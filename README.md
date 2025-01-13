@@ -1,6 +1,8 @@
 # A Search for Peculiar Plasma in the Atmosphere of Mars
 
-Figure shows measurements of charged particles in the atmosphere of Mars. They were made by NASA's MAVEN spacecraft as it flew through the outermost regions of Mars' atmosphere.
+At Mars, the solar wind - a continous flow of charged particles moving outward from the Sun - is usually deflected around the planet. In this project, I analyzed plasma data from NASA's MAVEN spacecraft to find outlier events that show unusual times when, instead of being deflected, the solar wind rams directly into Mars. 
+
+The Figure below shows measurements of charged particles in the atmosphere of Mars. They were made by NASA's MAVEN spacecraft as it flew through the outermost regions of Mars' atmosphere. 
 
 
 
