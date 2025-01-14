@@ -7,4 +7,4 @@ The Figure below shows measurements of charged particles in the atmosphere of Ma
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/60696c37-6781-43de-8a92-556123918c4c" />
 
-This figure is from an academic publication found here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032164
+This figure is from an academic paper I publushed that can be found here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032164
