@@ -5,6 +5,7 @@ The solar wind - a continuous flow of charged particles moving outward from the 
 The figure below shows an example of an outlier event in the plasma measurements made by NASA's MAVEN spacecraft as it flew through the outermost region of Mars' atmosphere. The presence of Stripe 1 and Stripe 2 are expected, but the presence of Stripe 3 indicates an outlier event where solar wind has made its way deep into the atmosphere. These unexpected events help explain how Mars' atmosphere is impacted by the Sun and how it has changed over time. 
 
 
-<img width="990" alt="image" src="https://github.com/user-attachments/assets/60696c37-6781-43de-8a92-556123918c4c" />
+<img width="990" alt="image" src="https://github.com/user-attachments/assets/f1fb7cd8-eda8-47ac-af01-459cab27a37f" />
+
 
 This figure is from an academic paper I published: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA032164
